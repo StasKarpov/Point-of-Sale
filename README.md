@@ -19,7 +19,5 @@ Implementations of:
   – if the code scanned is empty than error message 'Invalid bar-code' is printed on LCD display
 
   – when 'exit' is input than receipt is printed on printer containing a list of all previously
-
-    scanned items names and prices as well as total sum to be paid for all items; the total sum is
-
-    also printed on LCD display
+scanned items names and prices as well as total sum to be paid for all items; the total sum is
+also printed on LCD display
